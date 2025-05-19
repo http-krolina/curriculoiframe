@@ -9,6 +9,12 @@ Body {
   flex-direction: column;
 }
 
+hr {
+  border: 1px solid #561c24;
+  height: 1px;
+  background-color: #561c24;
+}
+
 main {
   flex: 1;
   display: flex;
@@ -17,6 +23,8 @@ main {
 .img1 {
   width: 80%;
   height: 100%;
+  border-radius: 50px;
+
 }
 
 a {
