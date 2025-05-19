@@ -24,7 +24,6 @@ main {
   width: 80%;
   height: 100%;
   border-radius: 50px;
-
 }
 
 a {
@@ -92,8 +91,9 @@ h3 {
 }
 
 .contato {
- color: #561c24;
-    font-size: 20px;
-    font-weight: bold;
-    text-align: center;
-    margin-top: 20px;
+  color: #561c24;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 20px;
+}
